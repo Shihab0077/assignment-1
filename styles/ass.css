@@ -1,0 +1,122 @@
+.banner{
+    width: 1600px;
+    height: 800px;
+    background-image: url(../images/banner/banner3.png);
+}
+*{margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    }
+.banner-content{
+    text-align: right;
+    padding-top: 215px;
+}    
+.banner-title{font-weight: 700;
+    font-size: 65px;
+   
+    text-align: right;
+    width: px;
+    margin-left: 850px;
+    margin-right: 230px;
+    color: #ffff;
+   
+}
+.banner-subtitle{
+    font-weight: 400;
+font-size: 16px;
+
+margin-left: 900px;
+margin-right: 230px;
+color: #FFFFFF;
+padding-top: 25px;
+padding-bottom: 25px;
+
+}
+ .banner-btn{
+    margin-right: 230px;
+    width: 160px;
+    height: 65px;
+    color: #005FAC;
+    font-size: 25px;
+    border-radius: 5px;
+    border: 0;
+ }
+
+ 
+.box1{
+    width: 1072px;
+    height: 725px;
+  
+    margin: 150px;
+    margin-left: 250px;
+    background-image: url(../images/person.png);
+    background-repeat: no-repeat;
+    
+
+}
+.box1-text{
+    text-align: right;
+}
+.txt-head{
+    font-weight: 700;
+font-size: 40px;
+margin-right: 80px;
+margin-left: 600px;
+padding-top: 150px;
+padding-bottom: 30px;
+}
+.txt-item{
+    font-weight: 400;
+font-size: 16px;
+color: #444343;
+margin-right: 40px;
+margin-left: 600px;
+padding-bottom: 20px;
+}
+.txt-description{
+    justify-content: space-between;
+    color: #444343;
+    margin-right: 40px;
+margin-left: 600px;
+line-height: 35px;
+}
+.my-plan{
+    font-weight: 700;
+font-size: 40px;
+text-align: center;
+}
+.my-plan h1{
+    margin-right:200px ;
+}
+.plan-item{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 230px;
+}
+.plan-item>img{
+    width: 92.96px;
+height: 92.96px;
+}
+.plan-item h5{
+    font-weight: 700;
+font-size: 30px;
+}
+.plan-item p{
+    color: #737272;
+    font-weight: 500;
+    font-size: 25px;
+    padding-bottom: 100px;
+}
+.image{align-items: center;
+    width: 1140px;
+    height: 300px;
+    margin-left: 230px;
+    margin-right: 230px;
+    background-image: linear-gradient(blue, url(../images/watch.png));
+    background-image:url(/images/watch.png);
+ 
+  
+    
+   
+}
