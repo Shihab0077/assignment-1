@@ -126,21 +126,22 @@ font-size: 30px;
     margin-right: 230px;
          
     background-repeat: no-repeat;
-    background-image:url(../images/gradient1.png),url(../images/watch.png)
-   
+    background-image: url(../images/watch.png);
+ 
     
 }
 .image{align-items: center;
     width: 1140px;
     height: 300px;
     
-    margin-left: 230px;
+   
     margin-right: 230px;
     
-    
+    background-image:url(../images/gradient1.png);
          
 }
 .image-title{
+    margin-left: 230px;
     padding-top: 50px;
     
     width: 500px;
@@ -148,7 +149,7 @@ font-size: 30px;
     font-size: 35px;
 }
 .image>button{
-    
+    margin-left: 230px;
     width: 150px;
     height: 50px;
     border: 0;
